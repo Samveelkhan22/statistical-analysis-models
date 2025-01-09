@@ -29,6 +29,8 @@ Ensure you have the following installed:
 - Python 3.8+  
 - Required libraries (`numpy`, `pandas`, `matplotlib`, `scikit-learn`).  
 
+---
+
 ## 📈 Results
 
 - Visualization: Scatter plots and regression lines for linear models.
